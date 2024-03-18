@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # todo-list
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -43,3 +44,7 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+=======
+# todo-list-demo
+A Todo Application build by vue3 with typescript
+>>>>>>> 6dd0e19 (Initial commit)
